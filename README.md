@@ -3,11 +3,11 @@
 ## Memoization Recipe
 
 1. Make it work:
-   a. Visualize the problem as a tree
-   b. Implement the tree using recursion
-   c. Test it.
+   1. Visualize the problem as a tree
+   2. Implement the tree using recursion
+   3. Test it.
 
 2. Make it efficient:
-   a. Add a memo object
-   b. Add a new base case to return memo values
-   c. Store return values into the memo.
+   1. Add a memo object
+   2. Add a new base case to return memo values
+   3. Store return values into the memo.
